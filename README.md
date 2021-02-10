@@ -1,11 +1,11 @@
-# Desafio 01 - Ranking de lojas
+# Desafio 02 - Empresa de Cartão de Crédito
 
 
 > Status do Projeto: Concluído ✅
 
 > Intensivão de Python 👨‍🏫
 
-> Aula 1 - Automação de processos e tarefas com Python
+> Aula 2 - Análise de Dados com Python
 
 > [Hashtag Programação](https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg)
 
@@ -14,7 +14,7 @@
 - [Proposta](#proposta)
 - [Lógica](#lógica)
 - [Tecnologias utilizadas](#tecnologias)
-- [Resultados](#resultados)
+
 
 ## Proposta
 

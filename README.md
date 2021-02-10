@@ -34,12 +34,16 @@ Passo 1: Importar dados
 
 Passo 2: Visualizar e fazer o tratamento da base de dados
 
-Excluir/corrigir vazios
-Ajeitar colunas
-Excluir colunas inúteis
+  - Excluir/corrigir vazios
+
+  - Ajeitar colunas
+
+  - Excluir colunas inúteis
+
 Passo 3: Analisar a base de dados
 
 Queremos descobrir as principais causas de cancelamento ou quem são os clientes com maior chance de cancelar o cartão, para podermos criar um plano de ação
+
 ## Tecnologias
 
 [Dados](https://github.com/GabrieleGVieira/Desafio02-Intensivo-Python/blob/main/docs/ClientesBanco.csv)
